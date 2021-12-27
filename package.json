@@ -1,13 +1,13 @@
 {
   "name": "developers-portfolio",
-  "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
+  "description": "A personal website/portfolio template I edited, hosted with GitHub Pages, built to showcase my recent projects.",
   "homepage": "https://yix-shu.github.io/home",
   "version": "2.0.0",
-  "private": false,
+  "private": true,
   "author": {
     "name": "Yixing Xu",
     "email": "yix.shu723@gmail.com",
-    "url": "https://yix-shu.github.io/home"
+    "url": "https://github.com/yix-shu"
   },
   "dependencies": {
     "axios": "^0.19.2",
